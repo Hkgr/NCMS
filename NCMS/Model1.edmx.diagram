@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="64b704d1aae04d5184f598cfc540dacb" Name="Diagram1">
+        <EntityTypeShape EntityType="test2Model.C__EFMigrationsHistory" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.client" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.dmg_data" Width="1.5" PointX="5.25" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.dmg_form" Width="1.5" PointX="3" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.employee" Width="1.5" PointX="0.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.ins_data" Width="1.5" PointX="5.25" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.inspect_form" Width="1.5" PointX="3" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.isu_data" Width="1.5" PointX="5.25" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.isu_form" Width="1.5" PointX="3" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.item" Width="1.5" PointX="3" PointY="18" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.re_data" Width="1.5" PointX="5.25" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.re_form" Width="1.5" PointX="3" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.Switchboard_Item" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.sysdiagram" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="test2Model.user" Width="1.5" PointX="9.75" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="test2Model.dmg_data_الاصنافتفاصيل_الاسقاط" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.dmg_data_نموذج_اسقاط_اصولتفاصيل_الاسقاط" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.dmg_form_الموظفيننموذج_اسقاط_اصول" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.dmg_form_الموظفيننموذج_اسقاط_اصول1" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.dmg_form_الموظفيننموذج_اسقاط_اصول2" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.dmg_form_الموظفيننموذج_اسقاط_اصول3" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.inspect_form_الموظفيننموذج_فحص_الاصناف" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.inspect_form_الموظفيننموذج_فحص_الاصناف1" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.isu_form_الموظفيننموذج_طلب_الصرف" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.isu_form_الموظفيننموذج_طلب_الصرف1" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.isu_form_الموظفيننموذج_طلب_الصرف2" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.re_form_الموظفيننموذج_ارجاع_الاصناف" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.re_form_الموظفيننموذج_ارجاع_الاصناف1" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.re_form_الموظفيننموذج_ارجاع_الاصناف2" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.ins_data_الاصنافتفاصيل_الفحص" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.ins_data_نموذج_فحص_الاصنافتفاصيل_الفحص" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.isu_data_الاصنافتفاصيل_الصرف" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.isu_data_نموذج_طلب_الصرفتفاصيل_الصرف" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.re_data_الاصنافتفاصيل_الارجاع" ManuallyRouted="false" />
+        <AssociationConnector Association="test2Model.re_data_نموذج_ارجاع_الاصنافتفاصيل_الارجاع" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
